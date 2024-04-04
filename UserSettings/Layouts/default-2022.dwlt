@@ -818,11 +818,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.003829366, y: 0.9865803, z: -0.16155268, w: -0.023385422}
     speed: 2
-    m_Value: {x: -0.0038293658, y: 0.98658025, z: -0.16155268, w: -0.02338542}
+    m_Value: {x: -0.003864437, y: 0.9863362, z: -0.16303225, w: -0.023379635}
   m_Size:
-    m_Target: 5.101583
+    m_Target: 3.8938909
     speed: 2
-    m_Value: 5.103497
+    m_Value: 3.7262113
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -962,7 +962,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Materiales
+    - Assets
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -970,16 +970,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 57
   m_LastFolders:
-  - Assets/Materiales
+  - Assets
   m_LastFoldersGridSize: 57
   m_LastProjectPath: C:\Users\karen\Unity\Prueba2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: ce590000
-    m_LastClickedID: 22990
-    m_ExpandedIDs: 00000000ba590000
+    m_SelectedIDs: a6590000
+    m_LastClickedID: 22950
+    m_ExpandedIDs: 00000000a6590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1007,7 +1007,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000ba590000
+    m_ExpandedIDs: 00000000a6590000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1034,7 +1034,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300004c5d0000305b0000a27300001a600000bc62000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
